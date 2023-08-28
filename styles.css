@@ -1,0 +1,16 @@
+body{max-height: ;}
+.up-section{border: 1px black dashed;
+text-align: center;
+height: 50px;
+}
+.nav{border: 1px black dashed; 
+height: 30px;
+}
+.hero{border: 1px black dashed;
+height: 180px;
+}
+.main-section{border: 1px black dashed;
+height: 110px;
+}
+.footer{border: 1px black dashed;
+height: 80px;
